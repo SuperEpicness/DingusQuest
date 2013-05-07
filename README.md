@@ -1,6 +1,8 @@
 DingusQuest
 ===========
 
+Authors:  Simon Struthers & Daniel Struthers
+
 Current version: v0.5.1
 
 Programming platforms:
